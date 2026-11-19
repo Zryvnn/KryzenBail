@@ -1,10 +1,10 @@
 {
-  "name": "@poucode/baileys",
+  "name": "@Zryvnn/KryzenBail",
   "type": "module",
   "version": "1.0.0",
-  "description": "A WebSockets library for interacting with WhatsApp Web \u2014 PouCode fork of Baileys",
+  "description": "A WebSockets library for interacting with WhatsApp Web \u2014 ZennCode fork of Baileys",
   "keywords": [
-    "poucode",
+    "ZennCode",
     "baileys",
     "whatsapp",
     "whatsapp-api",
@@ -12,13 +12,13 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://github.com/pou-code/Baileys",
+  "homepage": "https://github.com/Zryvnn/KryzenBail",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pou-code/Baileys.git"
+    "url": "git+https://github.com/Zryvnn/KryzenBail.git"
   },
   "license": "MIT",
-  "author": "PouCode",
+  "author": "ZennCode",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -140,7 +140,7 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/pou-code/Baileys/issues"
+    "url": "https://github.com/Zryvnn/KryzenBail/issues"
   },
   "contributors": [
     "WhiskeySockets (original Baileys authors)"
